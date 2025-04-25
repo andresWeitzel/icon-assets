@@ -26,3 +26,13 @@ Podés utilizar estos íconos para:
 
 ```html
 <img src="ruta/al/icono.svg" alt="Descripción" width="40" />
+```
+
+## 🔧 Herramientas útiles
+
+A continuación, se listan algunas herramientas recomendadas para trabajar con íconos SVG:
+
+- [FreeConvert PNG to SVG](https://www.freeconvert.com/es/png-to-svg/download) – Convierte imágenes PNG a formato SVG fácilmente. Útil para vectorizar logotipos u otros íconos sin perder calidad.
+
+> Si conocés más herramientas útiles para manipular o generar íconos SVG, ¡no dudes en contribuir al repo!
+
