@@ -16,6 +16,8 @@ Los íconos están agrupados en carpetas temáticas:
 - `redes/` – Elementos relacionados con redes informáticas.
 - `webservice/` – APIs, servicios web y afines.
 
+<br>
+
 ## 🚀 Uso
 
 Podés utilizar estos íconos para:
@@ -27,6 +29,8 @@ Podés utilizar estos íconos para:
 ```html
 <img src="ruta/al/icono.svg" alt="Descripción" width="40" />
 ```
+
+<br>
 
 ## 🔧 Herramientas útiles
 
