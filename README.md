@@ -32,8 +32,10 @@ Podés utilizar estos íconos para:
 
 Estas herramientas pueden ayudarte a crear, convertir o buscar íconos SVG de forma rápida y eficiente:
 
-- [FreeConvert PNG to SVG](https://www.freeconvert.com/es/png-to-svg/download) – Convierte imágenes PNG a SVG. Ideal para vectorizar logos o íconos en alta calidad.
+- [FreeConvert PNG to SVG](https://www.freeconvert.com/es/png-to-svg/download) – Convierte formato de imágenes (Ej : PNG a SVG).
+- [Image convert](https://imagen.online-convert.com/) - Convierte varios formatos.
 - [Iconduck](https://iconduck.com/) – Biblioteca gratuita con más de 200,000 íconos y ilustraciones en SVG, listos para descargar y usar en tus proyectos.
+
 
 
 > Si conocés más herramientas útiles para manipular o generar íconos SVG, ¡no dudes en contribuir al repo!
