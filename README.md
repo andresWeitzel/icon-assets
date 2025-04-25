@@ -43,6 +43,3 @@ Estas herramientas pueden ayudarte a crear, convertir o buscar íconos SVG de fo
 - [Iconduck](https://iconduck.com/) – Biblioteca gratuita con más de 200,000 íconos y ilustraciones en SVG, listos para descargar y usar en tus proyectos.
 
 
-
-> Si conocés más herramientas útiles para manipular o generar íconos SVG, ¡no dudes en contribuir al repo!
-
