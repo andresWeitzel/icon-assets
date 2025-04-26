@@ -1,6 +1,6 @@
 # 🧩 icon-assets
 
-Repositorio de íconos organizados y reutilizables, migrados desde [Graphics/GithubReadme](https://github.com/andresWeitzel/Graphics/tree/master/GithubReadme). Este proyecto centraliza y estructura recursos gráficos utilizados comúnmente en perfiles de GitHub, portafolios personales e interfaces de usuario modernas.
+Repositorio de íconos organizados y reutilizables. Este proyecto centraliza y estructura recursos gráficos utilizados comúnmente en perfiles de GitHub, portafolios personales e interfaces de usuario modernas.
 
 <br>
 
@@ -9,14 +9,14 @@ Repositorio de íconos organizados y reutilizables, migrados desde [Graphics/Git
 Los íconos están agrupados en carpetas temáticas:
 
 - `aws/` – Íconos relacionados con servicios de Amazon Web Services.
-- `back/` – Herramientas y tecnologías del backend.
+- `backend/` – Herramientas y tecnologías del backend.
 - `database/` – Bases de datos SQL y NoSQL.
 - `datascience/` – Herramientas de análisis y ciencia de datos.
 - `devops/` – Tecnologías orientadas a CI/CD, contenedores y automatización.
-- `embebed/` – Íconos relacionados con sistemas embebidos.
-- `front/` – Tecnologías frontend (React, Angular, etc).
-- `redes/` – Elementos relacionados con redes informáticas.
-- `webservice/` – APIs, servicios web y afines.
+- `embedded-systems/` – Íconos relacionados con sistemas embebidos.
+- `frontend/` – Tecnologías frontend (React, Angular, etc).
+- `social-networks/` – Elementos relacionados con redes informáticas.
+- `webservices/` – APIs, servicios web y afines.
 
 <br>
 
