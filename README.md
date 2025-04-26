@@ -38,8 +38,11 @@ Podés utilizar estos íconos para:
 
 Estas herramientas pueden ayudarte a crear, convertir o buscar íconos SVG de forma rápida y eficiente:
 
-- [FreeConvert PNG to SVG](https://www.freeconvert.com/es/png-to-svg/download) – Convierte formato de imágenes (Ej : PNG a SVG).
+- [image.online-convert (descarga sin comprimido)](https://image.online-convert.com/convert/png-to-svg) – Convierte formato de imágenes (Ej : PNG a SVG).
+- [FreeConvert PNG to SVG (descarga con comprimido)](https://www.freeconvert.com/es/png-to-svg/download) – Convierte formato de imágenes (Ej : PNG a SVG).
 - [Image convert](https://imagen.online-convert.com/) - Convierte varios formatos.
 - [Iconduck](https://iconduck.com/) – Biblioteca gratuita con más de 200,000 íconos y ilustraciones en SVG, listos para descargar y usar en tus proyectos.
+- [Simple Icons](https://simpleicons.org/?q=sql) - Biblioteca pero con ioconos blanco y negro
+- [iloveimg remove background](https://www.iloveimg.com/es/eliminar-fondo) - Eliminar fondo de imagen
 
 
