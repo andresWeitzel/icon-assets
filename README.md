@@ -16,7 +16,6 @@ Los íconos están agrupados en carpetas temáticas:
 - `embedded-systems/` – Íconos relacionados con sistemas embebidos.
 - `frontend/` – Tecnologías frontend (React, Angular, etc).
 - `social-networks/` – Elementos relacionados con redes informáticas.
-- `webservices/` – APIs, servicios web y afines.
 
 <br>
 
